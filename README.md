@@ -2,6 +2,16 @@
 
 **Git-based sync for Hermes Agent `~/.hermes/` across devices.**
 
+>Sync your Hermes Agent configuration (config, profiles, skills, sessions, memory) between multiple devices using a private Git repository — fully under your control.
+
+| | |
+|---|---|
+| **Status** | Stable (v0.1.0) |
+| **License** | MIT |
+| **Python** | 3.8+ |
+| **Downloads** | `pip install hermes-sync` |
+| **Repository** | [github.com/Black-Studio-ia/hermes-sync](https://github.com/Black-Studio-ia/hermes-sync) |
+
 This is an **unofficial companion tool** and is **NOT affiliated with, endorsed by, or connected to Nous Research** or any official Hermes Agent project. It is a community-built solution addressing the feature request documented in [NousResearch/hermes-agent#20510](https://github.com/NousResearch/hermes-agent/issues/20510).
 
 ## The Problem
