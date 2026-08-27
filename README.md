@@ -154,7 +154,7 @@ Use at your own risk. The Hermes Agent project may introduce native sync feature
 
 This tool is provided free and open-source under the MIT license. If you find it useful and want to support its development:
 
-**USDT (TRC20):** TXQCrX61CceFxX5gnFg9N3ssZEC7MavwBQا
+USDT (TRC20): TXQCrX61CceFxX5gnFg9N3ssZEC7MavwBQ
 
 **Contact:** ia.creative.tn@gmail.com
 
