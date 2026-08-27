@@ -1,0 +1,17 @@
+# hermes-sync project itself
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.ruff-cache/
+*.egg
+
+# Not syncing this repo's own config (if any)
+# (the tool syncs ~/.hermes/ only)
+
+# Local test artifacts
+test_hermes/
+tmp/
+temp/
