@@ -15,3 +15,15 @@ build/
 test_hermes/
 tmp/
 temp/
+
+# Python template additions (from GitHub gitignore template)
+*.so
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+*.cover
+*.py.cover
+.mypy_cache/
+.pytype/
+.cython_debug/
